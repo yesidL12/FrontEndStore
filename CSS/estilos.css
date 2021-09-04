@@ -35,7 +35,7 @@ img{
 }
 .contenedor{
     max-width: 120rem;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 h1,h2,h3{
     text-align: center;
@@ -71,6 +71,18 @@ que es una "bandera" que avisa que ese elemento tendrá un diseño diferente.*/
 }
 .header__logo{
     margin: 3rem 0;
+}
+/*footer*/
+.footer{
+  background-color: color(va--primarioOscuro);
+  padding: 1rem 0;
+  margin-top: 2rem;
+  
+}
+.footer__texto{
+  font-family: var(--fuentePrincipal);
+  text-align:center;
+  font-size:2.2rem;
 }
 /*navegacion*/
 .navegacion{
