@@ -73,12 +73,12 @@ que es una "bandera" que avisa que ese elemento tendrá un diseño diferente.*/
     margin: 3rem 0;
 }
 /*footer*/
-.footer{
-  background-color: color(va--primarioOscuro);
+.footer {
+  background-color:var(--primarioOscuro);
   padding: 1rem 0;
   margin-top: 2rem;
-  
 }
+
 .footer__texto{
   font-family: var(--fuentePrincipal);
   text-align:center;
