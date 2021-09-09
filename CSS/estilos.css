@@ -181,6 +181,7 @@ font-size: 3rem;
 }
 .nosotros__imagen{
   grid-row: 1/2;
+  width: 100%;
 }
 @media(min-width:768px){
   .nosotros__imagen{
